@@ -1,0 +1,145 @@
+.desktop {
+  background-color: #f2f5f8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #f2f5f8;
+  height: 7048px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .next-generation {
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 80px;
+  font-weight: 600;
+  left: 54px;
+  letter-spacing: -4.4px;
+  line-height: 91.7px;
+  position: absolute;
+  top: 204px;
+  width: 730px;
+}
+
+.desktop .text-wrapper {
+  color: #000000;
+}
+
+.desktop .span {
+  color: #6dace7;
+}
+
+.desktop .text-wrapper-2 {
+  color: #171717;
+}
+
+.desktop .overlap-group {
+  height: 804px;
+  left: 0;
+  position: absolute;
+  top: 6244px;
+  width: 1440px;
+}
+
+.desktop .ri-instagram-fill {
+  height: 36px;
+  left: 259px;
+  position: absolute;
+  top: 478px;
+  width: 36px;
+}
+
+.desktop .ic-baseline-facebook {
+  height: 36px;
+  left: 203px;
+  position: absolute;
+  top: 478px;
+  width: 36px;
+}
+
+.desktop .bi-linkedin {
+  height: 30px;
+  left: 153px;
+  position: absolute;
+  top: 481px;
+  width: 30px;
+}
+
+.desktop .partner-with-us {
+  height: 473px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .footer {
+  height: 348px;
+  left: 0;
+  position: absolute;
+  top: 456px;
+  width: 1440px;
+}
+
+.desktop .image {
+  height: 51px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 204px;
+}
+
+.desktop .frame {
+  height: 728px;
+  left: 859px;
+  position: absolute;
+  top: 150px;
+  width: 468px;
+}
+
+.desktop .meet-our-leaders {
+  height: 1025px;
+  left: 92px;
+  position: absolute;
+  top: 5081px;
+  width: 1262px;
+}
+
+.desktop .invest-to-get-steady {
+  height: 45px;
+  left: 2475px;
+  position: absolute;
+  top: 739px;
+  width: 282px;
+}
+
+.desktop .risk-mitigation {
+  height: 2066px;
+  left: 83px;
+  position: absolute;
+  top: 2810px;
+  width: 1318px;
+}
+
+.desktop .plans {
+  height: 889px;
+  left: 54px;
+  position: absolute;
+  top: 900px;
+  width: 1332px;
+}
+
+.desktop .testimonials {
+  height: 714px;
+  left: 153px;
+  position: absolute;
+  top: 1961px;
+  width: 1163px;
+}
