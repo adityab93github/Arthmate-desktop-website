@@ -4,7 +4,7 @@ Instructions to arthmate devs:
 2. Repository is an initialized react application with the required html/jsx/css needed for the website version of the page
 3. The form is just added as an image for now but has to be converted to textboxes and the form has to be submitted to google sheets API using your google sheets API key
 4. It is recommended to not hardcode the google sheets api key in code, upload it to AWS secret manager using an existing AWS dev account and use a secret manager API to fetch the value
-5. The current code repository has some dev dependencies specified in package.json which may need to be added to your existing package.json to work correctly
+5. The current code repository has some dev dependencies specified in package.json which may need to be added to your existing package.json to work correctly. Storybook is optional and can be removed if necessary
 
 
 
